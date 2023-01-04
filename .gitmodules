@@ -1,0 +1,7 @@
+[submodule "external/eigen"]
+	path = lib/Eigen
+	url = https://gitlab.com/libeigen/eigen.git
+    branch = 3.4.0
+[submodule "lib/URDF_Parser"]
+	path = lib/URDF_Parser
+	url = https://github.com/ORB-HD/URDF_Parser
