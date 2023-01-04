@@ -1,5 +1,5 @@
-#ifndef MYLIBRARYPROJECT_FKSOLVERINTERFACE_H
-#define MYLIBRARYPROJECT_FKSOLVERINTERFACE_H
+#ifndef FKSOLVERINTERFACE_H
+#define FKSOLVERINTERFACE_H
 
 #include <queue>
 
@@ -29,4 +29,4 @@ public:
     void updateLinksWithChildren(std::string startLinkGenericName);
 };
 
-#endif //MYLIBRARYPROJECT_FKSOLVERINTERFACE_H
+#endif //FKSOLVERINTERFACE_H

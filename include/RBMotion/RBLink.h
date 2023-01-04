@@ -2,8 +2,8 @@
 // Created by jakub on 12/6/22.
 //
 
-#ifndef MYLIBRARYPROJECT_RBLINK_H
-#define MYLIBRARYPROJECT_RBLINK_H
+#ifndef RBLINK_H
+#define RBLINK_H
 
 #include <Eigen/Dense>
 #include <Eigen/Core>
@@ -40,4 +40,4 @@ public:
 };
 
 
-#endif //MYLIBRARYPROJECT_RBLINK_H
+#endif //RBLINK_H

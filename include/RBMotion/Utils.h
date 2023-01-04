@@ -1,5 +1,5 @@
-#ifndef MYLIBRARYPROJECT_UTILS_H
-#define MYLIBRARYPROJECT_UTILS_H
+#ifndef UTILS_H
+#define UTILS_H
 
 #include <Eigen/Dense>
 #include <Eigen/Core>
@@ -41,4 +41,4 @@ namespace Utils {
 
 }
 
-#endif //MYLIBRARYPROJECT_UTILS_H
+#endif //UTILS_H
